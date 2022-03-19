@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+#fwzy {
+    font-size: 40px;
+    float: left;
+    margin: 0px 8px 0px 0px;
+}
+
+#iklan {
+    border-radius: 10px;
+    width: 250px;
+    height: 150px;
+    background: crimson;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+}
